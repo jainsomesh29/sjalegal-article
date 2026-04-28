@@ -1,0 +1,42 @@
+[
+  {
+    "id": "new-income-tax-bill-2025",
+    "title": "New Income Tax Bill, 2025: The Road to a Simpler Tax Regime",
+    "tag": "Direct Tax",
+    "year": 2025,
+    "date": "Feb 2025",
+    "author": "SJA Legal",
+    "excerpt": "An analysis of the structural changes proposed in the new Income Tax Bill and its implications for taxpayers across India.",
+    "published": true
+  },
+  {
+    "id": "agency-vs-principal-gst",
+    "title": "Agency or Principal-to-Principal: The Taxing Dilemma in Business Transactions",
+    "tag": "GST",
+    "year": 2025,
+    "date": "Jan 2025",
+    "author": "SJA Legal",
+    "excerpt": "How characterisation of a transaction as agency versus principal-to-principal affects GST liability and compliance obligations.",
+    "published": true
+  },
+  {
+    "id": "non-monetary-consideration-customs",
+    "title": "Non-Monetary Consideration and Its Effect on Transaction Value",
+    "tag": "Customs",
+    "year": 2024,
+    "date": "Dec 2024",
+    "author": "SJA Legal",
+    "excerpt": "Examining how non-monetary consideration impacts customs valuation under the Customs Valuation Rules, 2007.",
+    "published": true
+  },
+  {
+    "id": "place-of-supply-outside-india",
+    "title": "Place of Supply Outside India — Still Supply in the Taxable Territory?",
+    "tag": "GST",
+    "year": 2024,
+    "date": "Nov 2024",
+    "author": "SJA Legal",
+    "excerpt": "A critical look at whether transactions with place of supply outside India remain taxable under the GST framework.",
+    "published": true
+  }
+]
